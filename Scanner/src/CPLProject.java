@@ -14,8 +14,8 @@ public class CPLProject {
 
         // test files
         String test1 = "/Users/katefisher/IdeaProjects/Scanner/Test1.jl";
-        String test2 = "/Users/katefisher/IdeaProjects/Scanner/Test2fix.jl";
-        String test3 = "/Users/katefisher/IdeaProjects/Scanner/Test3fix.jl";
+        String test2 = "/Users/katefisher/IdeaProjects/Scanner/Test2.jl";
+        String test3 = "/Users/katefisher/IdeaProjects/Scanner/Test3.jl";
 
         //DELIVERABLE 1: LEXICAL ANALYZER
 
